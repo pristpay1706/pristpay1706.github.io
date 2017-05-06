@@ -1,0 +1,20 @@
+body{background: #FFE4E1;}
+#header{background:#FFB6C1; width:1222px; height:70px;position:absolute;
+}
+#menu{background:#FFEFD5;position: absolute; height:1800px;
+ width:400px;top:100px; text-align:left; padding:10px;}
+#контент{background:#D8BFD8; height:1800px; width:400px;
+ 	position:absolute;left:420px;top:100px;text-align:left; padding:10px;}
+#новости{background:#E0FFFF; height:1800px; width:400px;
+ 	position:absolute; left:830px;top:100px;text-align:left; padding:10px;}
+#meni{background:#F08080;overflow:scroll ; 
+	position:absolute; height:800px;width:300px; 
+left:50px;top:450px;} 	
+
+#kiss{background:#7FFFD4;position:absolute; height:900px;width:300px;
+left:880px;top:600px;overflow:scroll ;
+text-align:left; padding:10px;}
+#vota{background:#FFC0CB;  width:600px; height:70px;
+	position:absolute;left:320px;text-align:center;}
+#tit{text-indent:1.2em;text-align:center;
+}
